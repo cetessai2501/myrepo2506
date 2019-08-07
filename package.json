@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "my-framework build",
+    "build": "npm run build",
     "start": "node index.js"
   },
   "author": "sophie25",
